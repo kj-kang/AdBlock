@@ -27,3 +27,5 @@ naver.com##.column_bn
 naver.com###veta_top
 nv1.veta.naver.com###ac_banner_i
 nv1.veta.naver.com###da_timeboard
+daum.net###adMain
+daum.net###adBrandingStation
