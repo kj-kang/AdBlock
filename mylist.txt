@@ -1,7 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: MyList
 ! Expires: 1 day
-||cc.naver.com
+cc.naver.com
+l.m.naver.com
+nv.veta.naver.com
 www.naver.com##.svc_all
 www.naver.com##.gnb
 www.naver.com##.notice
