@@ -3,6 +3,7 @@
 ! Expires: 1 day
 cc.naver.com
 l.m.naver.com
+lcs.naver.com
 nv.veta.naver.com
 www.naver.com##.svc_all
 www.naver.com##.gnb
