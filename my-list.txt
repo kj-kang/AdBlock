@@ -1,0 +1,29 @@
+[Adblock Plus 2.0]
+! [요청 차단 필터]/blocking
+||google-analytics.com^
+||clickmon.co.kr^
+||wcs.naver.net^
+||zangsisi.net/wp-includes/js/*
+! [요소 숨김 필터]/elemhide
+zangsisi.net##CENTER
+zangsisi.net##A[style="font-weight: bold; color:#FFFFFF; text-decoration:none; font-size:12px; position: absolute; top: 0px; left: 0px; display: block; width: 100%; text-align: left;"]
+zangsisi.net###commentform
+zangsisi.net##OL#commentlist > *
+zangsisi.net###comments
+zangsisi.net###reply-title
+zangsisi.net###comment-nav-below
+zangsisi.net##TD[align="center"]
+zangsisi.net###head
+zangsisi.net##.smaller
+zangsisi.net##A[href="http://www.bananamall.co.kr/Alinker/?ALK_Cpr=Ym5uX3phbmdzaXNpMXwjfDc=&ALK_Fd=0028"]
+naver.com##DIV[class=shopping_cast]
+naver.com###veta_branding
+naver.com###da_expwide
+naver.com###da_stake
+naver.com###da_brand
+naver.com###da_top
+naver.com###footer_banner
+naver.com##.column_bn
+naver.com###veta_top
+nv1.veta.naver.com###ac_banner_i
+nv1.veta.naver.com###da_timeboard
