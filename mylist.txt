@@ -1,0 +1,5 @@
+||cc.naver.com
+www.naver.com##.svc_all
+www.naver.com##.gnb
+www.naver.com##.notice
+www.naver.com###container
